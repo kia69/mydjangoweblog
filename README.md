@@ -1,0 +1,2 @@
+# mydjangoweblog
+weblog
